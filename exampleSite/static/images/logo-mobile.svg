@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="127px" height="60px" viewBox="0 0 127 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>logo-mobile</title>
+    <desc>Created with Sketch.</desc>
+    <g id="logo-mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#069704" x="0" y="0" width="127" height="60"></rect>
+        <text id="Warren" font-family="AirbnbCerealApp-Bold, Airbnb Cereal App" font-size="30" font-weight="bold" fill="#FFFFFF">
+            <tspan x="21.32" y="41">Warren</tspan>
+        </text>
+    </g>
+</svg>
