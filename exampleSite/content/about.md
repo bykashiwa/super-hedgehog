@@ -3,48 +3,33 @@ title: 'About'
 menu: 'main'
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+事業内容｜私たちについて
+Warren合同会社の事業内容について
 
-## Ne verba patulosque numen vix libet
+# 私たちからのメッセージ
+Warren合同会社は、「The Partnership Company」をテーマに、縫い目のない信頼関係をつくることを目指しています。物事をシンプルに保つことと取り組みへの情熱を基盤に、マーケティング・IT・ファイナンスの専門知識を活用します。事業成功に向けての取り組み、革新的なマーケティングまで事業を全般的にサポートします。
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+理想論としてのアイディアを語るのではなく、実際の事業に圧倒的な成長を実現します。
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+従来のマーケティング/コンサルティング/代理店会社にみられたクライアントと受託者という受発注関係ではなく、共同チームとして事業課題の発見から、解決策としての変化と挑戦を象徴するアクションの実行までをプロデュースします。
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+## ①事業クリエイティブ
+商品やサービスのマーケティングだけではなく、新規事業や新しいプロダクト、サービスの開発まで支援することが可能です。社会の変化、生活者の気持ちを捉えた事業をクライアント/パートナーとともに生み出し、新しい価値を創造します。
 
-## Postquam tamen
+## ②ブランドソーシャライズ
+日本のような成熟社会においては、従来の企業や商品のブランディングのように、自社の強みや競合との比較をベースに事業戦略を設計することは難しくなっています。社会起点で事業の価値・ビジョンを再定義し、その価値をサービス利用者に伝えながらも、社会を最も動かせる活動によってブランドを社会実装していきます。
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+## ③メイクムーブメント
+単なるマーケティング活動ではなく、社会にブランドの思想を伝え、生活者の行動変化を起こす。そのために、ブランドにまつわる「現象」を起こし、それがSNSや口コミを通じて社会全体に波及する構造を作ります。
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+### 報酬形態
+Warren合同会社 は、あらゆる社会の変化と企業の挑戦にコミットするために、
+企業の成長ステップや、事業規模に応じて複数の報酬形態を設計しています。
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+- フィー型
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+- レベニューシェア型
+
+- ストックオプション型
+
+- 投資型
