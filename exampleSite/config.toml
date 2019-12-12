@@ -1,6 +1,6 @@
 baseURL = "www.example.com"
-languageCode = "en-us"
-title = "Hugo Serif Theme"
+languageCode = "jp"
+title = "Warren,G.k"
 themesDir = "../.."
 theme = "hugo-serif-theme"
 
@@ -12,7 +12,7 @@ theme = "hugo-serif-theme"
   [params.logo]
     mobile = "images/logo-mobile.svg"
     standard  = "images/logo.svg"
-    alt = "Serif - A Hugo Business Theme"
+    alt = "Warren - The Partnership Company"
 
   [params.homepage_meta_tags]
     meta_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
