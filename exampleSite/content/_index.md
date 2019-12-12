@@ -5,6 +5,7 @@ intro_image_absolute: true # edit /assets/scss/components/_intro-image.scss for 
 intro_image_hide_on_mobile: true
 ---
 
-# The Partnership Company - A Hugo Business Theme.
+# The Partnership Company 
+- つなぎ目のない関係を目指す
 
 ## Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
