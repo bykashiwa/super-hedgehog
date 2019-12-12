@@ -6,6 +6,6 @@ intro_image_hide_on_mobile: true
 ---
 
 # The Partnership Company 
-- つなぎ目のない関係を目指す
+## つなぎ目のない関係を目指す
 
-## Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+### マーケティング・IT・ファイナンスを活用し、既存事業の成長、革新的なマーケティングまで事業を全般的にサポートします。理想論としてのアイディアを語るのではなく、実際の事業に圧倒的な成長を実現します。
