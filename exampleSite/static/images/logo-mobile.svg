@@ -3,8 +3,9 @@
     <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
     <title>logo-mobile</title>
     <desc>Created with Sketch.</desc>
-    <g id="logo-mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="AirbnbCerealApp-Bold, Airbnb Cereal App" font-size="14" font-weight="bold">
-        <text id="Warren" fill="#069704">
+    <g id="logo-mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#069704" x="0" y="0" width="54" height="54"></rect>
+        <text id="Warren" font-family="AirbnbCerealApp-Bold, Airbnb Cereal App" font-size="14" font-weight="bold" fill="#FFFFFF">
             <tspan x="2.416" y="33">Warren</tspan>
         </text>
     </g>
