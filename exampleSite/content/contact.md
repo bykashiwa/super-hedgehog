@@ -5,13 +5,15 @@ layout: contact
 menu: 'main'
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+お仕事のご相談はメールアドレスにお問い合わせください。
+その他問い合わせも、メールにて受け付けております。
+2営業日までに返信がない場合は、再度お問い合わせいただきますようお願いいたします。
 
 | Day       | Opening Hours   |
 | --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
+| Tuesday   | 10:00am - 5:00pm |
+| Wednesday | 10:00am - 5:00pm |
+| Thursday  | 10:00am - 5:00pm |
+| Friday    | 10:00am - 5:00pm |
+| Saturday  | Closed　　　　　　 | 
 | Saturday  | Closed          |
