@@ -1,36 +1,62 @@
 ---
-title: "マーケティング全般"
+title: "中小企業向けマーケティング"
 date: 2018-11-18T12:33:46+10:00
 draft: false
 featured: true
 weight: 1
 ---
 
-マーケティングの伸び代はどの企業・事業にもあります。企業のフェーズや規模に応じて取り組むことへ優先順位をつけて、利益UPに結びつけることができます。
+「目指す方向」「強み」を考え、業務にまで落とし込んだうえでマーケティングに取り組みます。リソースの少ない中小企業だからこそ、選択と集中を慎重に行うのです。
 
-## マーケティングにまつわる中小企業の意識
+## 中小企業はマーケティングにかけられるリソースが少ない
 
+中小企業はマーケティングにリソースをかけられていません。
+なぜなら、「何から手をつければ良いかわからない」「取り組みの成果が見えにくい」というのが現場の声でした。
+アンケートでは企業のマーケティングに関する調査で、「マーケティングに関する課題はない」と答えた割合は、1,000人以上の企業では5％強だったが、300人未満の企業では20％程でした。
 
-## Postquam tamen
+中小企業の従業員の方はそもそもマーケティングに対して何から手をつけて良いかわからないという方も多いです。
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+マーケティングを定義することは、難しいです。
+「マーケティングの理想は、販売を不要にするものである」と有名なコンサルタントは述べていますが、
+マーケティングと営業を区別することは難しく、成果が数字に表れる営業とは異なり、マーケティングは成果が見えづらい。
+そのため、中小企業では後回しにしてしまうことが多いのです。
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+## 中小企業がマーケティングを成功させるためのポイントは？
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+実際に中小企業がマーケティングを行う際は、どのように進めていけばいいのでしょうか。
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+まずマーケティングは施策単位のものではなく、「長期的戦略」です。
+マーケティングは企業戦略そのものであり、小手先のテクニックではない。
+確かにウェブ広告を出したり、展示会に出展したりすれば、一時的に売上は増えるかもしれません。
+しかし、本当の意味で他社との差別化を図り長期的競争力をつけていくには、この考え方を変える必要があります。
+
+## マーケティングの基本は「誰にどんな価値を提供するか」であり、企業活動の根本部分
+
+マーケティングに成功している企業は、「企業が顧客とどうありたいか」がマーケティング活動の根底にあります。
+マーケティングを行い成果をあげるためには「自社は顧客に対してどうありたいか」について協議することから始まります。
+
+そして、中小企業のマーケティングにおいて次に重要なのは、「自社の強みは何か」を正しく把握することです。
+これが明文化され、全員が理解した上でマーケティング施策を行うことが、中小企業においては特に効果を発揮することになります。
+
+中小企業は大企業に比べてリソースが少ないため、あらゆることに手を出していては競争に勝つことができない。
+中小企業はリソースに限りがあるため、得意な分野へ集中していくことが投資効率をあげる一手になる。
+他社と差別化を図る方法は、「自社の強み」を全社で共有していくことです。
+
+- あなたの会社の従業員は、自社の強みをきちんと理解していますか？
+- その強みは、業務に落とし込まれていますか？
+まずは、それを確認するところから始めてみてください。
+
+## 単発ではなく、サイクルが回っているかどうか
+
+自社の強みを理解し、業務に落とし込めたとしても、それで終わりではないです。
+マーケティングにおいては、サイクルを回し続けることが欠かせません。
+
+多くの企業はマーケティングを投資と捉えて、単発の施策を行いがち。
+しかし、前述のとおりマーケティングとは企業戦略そのものであり、マーケティングは継続的に行わなければならないのです。
+
+施策を行うたびに一喜一憂するのではなく、数値が良かった場合は何が良かったのか、それは再現性はあるのか、横展開はできるのかなどを考えること
+結果が悪かった場合は要因を分析する必要がある。このようにPDCAサイクルを回し続けることが、マーケティングにおいても重要なのだ。
+施策を行うたびに一喜一憂するのではなく、数値が良かった場合は何が良かったのか、それは再現性はあるのか、横展開はできるのかなどを考える
+結果が悪かった場合は、なぜうまくいかなかったのかを分析する。
+
+このようにマーケティングサイクルを回し続けることが、マーケティング活動においても重要なのです。
