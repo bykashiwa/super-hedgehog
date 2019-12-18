@@ -16,14 +16,14 @@ theme = "hugo-serif-theme"
 
   [params.homepage_meta_tags]
     meta_description = "パートナーシップカンパニー:Warren合同会社。受発注関係では到達できない頂へ"
-    meta_og_title = "Warren,G.k"
+    meta_og_title = "Warren,G.K"
     meta_og_type = "website"
     meta_og_url = "https://warren.co.jp"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
-    meta_og_description = "Warren合同会社。受発注関係では到達できない頂へ"
+    meta_og_description = "Warren合同会社。パートナーシップカンパニー"
     meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@kkk"
+    meta_twitter_creator = "@kkk"
 
 [menu]
   # Main Menu
