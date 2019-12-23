@@ -1,60 +1,58 @@
 ---
-title: "事業分析"
+title: "リサーチ（調査・分析）"
 date: 2018-11-28T15:14:39+10:00
 featured: true
 draft: false
 ---
+# リサーチ
+事実を正しく認識することが成長への1歩目
+客観的に見て、自社はどのような競争環境に身を置いているのかを知るためのサービスです。
 
-Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
-ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)
-ulciscitur est. Morte [lugebere](#esse-ferro-nisi) conatur [Pallada
-quaerentes](#pia-non) tulit, **ignis vagatur undis**, latitantem ignemque non
-laevo. Terras seu favoni tectas movit hunc motuque damno tutoque quattuor. Leto
-duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat
-Coroneus est qui viscere barbariam **seris**. Vim in quamquam colla ventura
-remos, Procne mane atque sic solent [non caelestibus](#iuvabat-limumque).
+##  リサーチ後の理想状態
+リサーチの最終的なアウトプットは、第一にクライアント様が自分の認識のギャップを埋めるためにあります。聞き終わったとき、あるいは読み終わったときに、ステークホルダーたちと同じように問題意識をもち、同じように納得し、同じように興奮してくれているのが理想としております。
 
-## Inter pectore totidem
+## 提出物（例）
+1.  成長に必要な問題意識・前提となる知識の共有 
+2.  カギとなる課題、サブ課題の明確化 
+3.  それぞれのサブ課題についての施策検討アイディア 
+4.  それらを総合した意味合いの整理 
+5.  1-4の一連のプレゼンテーション、あるいは論文に必要な要素を整理して、流れをもった箇条書きの文章として統合したレポート
 
-Presserat [transitque inde](#diversa-iam-inter). Vel montes tum cohors Tityos
-lassavit nihil oracula exiguo ligatis.
+## リサーチの方針
+私たちは「どんなデータが取れそうか」ではなく、「どんな分析結果がほしいのか」を起点に分析イメージをつくります。
+成長するためのボトムネック・伸び代はなんであるか、という分析の設計を行うことが大切にしております。
+「これならが簡単に取れそうだ」と思われるデータから分析を設計するのは本末転倒であり、これをやってしまうと、後半の課題の見極めも施策アイディアづくりもムダになってしまいます。
 
-## Novis hunc qua erat caecisque
+### 足で稼ぐ (現地現物)
+正面から正式な数字が取れなくても、大体どの程度の規模感かがわかれば課題に答えが出るという場合であれば、フットワークで情報を稼ぐというやり方も利用します。
+たとえば「ある女性向けブランドの出店場所を、新宿と表参道のいずれかで考えている」としたときに、どちらが自社の狙うターゲットに近いかを知りたいなら、これは直接調べるのがいちばん速いです。平日と週末の同じ日にそれぞれ人を立ててざっと調べれば、おおむねの傾向と規模感がわかるのです。
+シンプルにほしいデータを元にそのアクションを設定します。
+正確に間違えるより、おおよそ正しいほうが事業成長には効果的なのを理解しております。
 
-Et Aeneae, nivosos magos, donata in quod cum [terris](#loco-aris), cumque solum,
-manibus auro moenibus glaebas. Manus incaluere. Nunc audiat teneat dextra,
-finivit cui male venit moves! Senior et niger tepido parenti fuit, in ponit
-spectemur et opto speret. Ferum Neptunus tergore.
+## 特定の調査手法だけでは大きな課題に答えを出せないことが多い
+いくつもの方法を組み合わせたり、既存の手法に自分なりの視点を加えたりすることで、はじめて答えに近づきます。
+だからこそ、使える手法は多いに越したことはないです。
 
-Nunc erant super: sacra cingebant tandem: rogabam terras, ripa. Cum est scire
-est increpat, leaena ipsa venae me minus casusve tauri. Poscis sacrorum
-_congerit currus_ Hippotades poenas. Non capta, **saturatos tecti** dum versata,
-cum Phineu, nomina dataque rubenti ignorant non lymphata, ara.
+優れたリサーチ（調査・分析）とは、「混乱のなかからひとつの絵が浮かび上がってくる」ものではなく、「ひとつのテーマから次々とカギになる課題が広がり、流れを見失うことなく思考が広がっていく」ものです。
 
-## Naiades latuere rubenti tendere os Phrygum eminus
+基本的な考えや前提、あるいは課題の共有からはじめ、最終的な結論とその意味するところを伝える、つまりは「的確な伝え方」をすれば必ず理解してくれる存在として信頼する。
+私たちは、パートナー企業を「とても賢いが客観的には見れていない」というのを基本とする受け手の想定をしております。（これは私たちも同様です。誰もがそうであるという事実です。）
 
-Respondit et tela viae illas saetas prodidit facta novitate, iurare trahitur
-morte tecta [pugnabo](#se). Est age, paelicis vestigia tremor capillis carere
-formae ne ait modo. Considere suam anguicomae neque Amphitrite dixit
-[quamvis](#ardore-ruborem-nutrit) meri convicia et dotem, tunc aderis metu ego
-habenas nec domum humo? Esse orba suo pedem tandem, pignus qui me tellus a
-Acmona male exuere ecce; [pelagi](#sed), Procnen causam? Carpe vertice tua etiam
-interdum detinet nec tanta capillos spolieris tutoque ventos _Iunonis_ Iovis
-retemptat _rexit generumque_ fides.
 
-## Statuunt nais inponere tamen duodena aemulus mille
+## いわゆる成功企業とは次のような一連の資質を持っている
+- ライバルの動向に左右されない。
+- 問題の本質が何であるかをいつも見失わない。
+- 達成するのに多くのやり方を持つ。一つの方法がうまく行かなければ、さっと他の方法に切り替える。 
+　
+要は一つのやり方に固執しないことです。多くの人や企業が失敗するのは、それに執着しているというだけの理由で、なんとかしてそれを成功させようとまず決め込んでかかるからです。
+うまくいってる事業の担当者や経営者と話していると、どんな問題が持ち上がっても、必ず「いやそれにはこんな別の見方もあるよ」と教えていただくことが多いです。これはいい兆候です。
 
-Feriat humilis recuset parum! Bitumine nati indignatus; longa nec vulnus cognita
-pondere, incola se non aut, frangitur! Cavis resoluta: ilia ardeat terraeque
-nova, adhuc! Ferox fertque tellus Iunonis: [virgineos sum](#tenues) contigerant
-terga pater, quod ore nam praecipiti levatus virilia Hylen. Inhaesit mucro,
-superum moveri late rota rapi avis amans _toto_, carpere reclinis pietas
-habenas, ne dici Canenti.
+## 客観的に事実を見つめる
+何がうまくいき、何がうまくいかないのか、その理由を探りましょう。
+合理的で、客観的で、冷静でいる 合理的な行動をすれば、利益を増やすことができるだけではありません。これは、すべてを結びつける原則です。
+合理的であることは本当に良いことです。しかし、そのためにはその時代に常識とされているバカげたことを避けなければなりません。そこで、時間をかけて平均打率を向上させる思考の構築システムが必要となります。
 
-1. Induruit huc grave simili
-2. Praecincti natos
-3. Ad dedit parentem
-4. Linguae pendent
 
-Non sensu est fecerat his rerum insignia verba, aeno nubila curvi. Tutus sibi
-isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas?
+
+
+
