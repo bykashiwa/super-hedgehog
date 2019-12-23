@@ -5,48 +5,57 @@ featured: true
 draft: false
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+グロース
+目的は、事業の中に「成長する仕組み」を組み込んでビジネスの拡大を行っていくことです。
+グロース（成長）の企画、設計時点で、 どの数値をどのようにしたいのか、ということを明確に定義しておき、その結果を数値で判断できるようにしておく ことが必須になります。
 
-## Ne verba patulosque numen vix libet
+## グロース（成長）とは？
+インターネットなどのデジタル分野では、すべてのアクションを数値で計測することが可能です。それ故に、 実行した施策の結果を絶対的な数値で評価することができます。定量的な評価に基づくグロースでは、判断の変数が多く効果測定があいまいになりがちな従来型のマーケティング活動に比べて、権限にとらわれずに意思決定してプロジェクトのスピードを高めることができます。そして多くの経営資源を効率よく投下しやすくなりました。結果的に、環境変化が多く、判断や実行のスピードが求められるいまの時代の事業開発にマッチした手法となってます。
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+## グロースって何をするの？
+全文でお伝えしたように、グロースハックにとっては成長がすべてです。その 成長に対して責任を持ち、責務を果たしていく人間がグロースパートナーです。
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+グロースパートナーの仕事は、成長の仕組みを設計し、最終的に製品（サービス）に組み込むことと、その成果をデータをもとに判断することです。
+これらの業務が部署をまたぐ場合は部署横断での業務調整を行う必要がありますし、それを躊躇してはいけません。理想は、製品（サービス）とデータに関する権限をグロースチームに移管して、最大速度でグロースをしていくことです。
 
-## Postquam tamen
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+ユーザーの行動を理解していくためには、グロースパートナー自身がその製品（サービス）を徹底的に使い込む必要があります。自身の製品への深い理解がなければデータはただの数字になってしまいます。私たちは、「現地現物」という行動指針を大事にしております。外部からパートナーとして共に事業を成長させるために、自ら足を運び、体感し、事実を正確に把握することが欠かせないとわかっているからです。
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+## マーケティングとの違いは？
+グロースはマーケティング文脈で語られることが多いため、グロースチームをマーケティング部門出身者で固めてしまうことがありますが、この場合には非常に注意が必要です。いざグロースハックをしようとする場合に、製品（サービス）に関わる改善策が出てこなくなり、一般的なマーケティング施策に終始してしまう、ということが時々あります。
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+具体的に言うと、施策として出てくるのがペイド型のユーザー獲得施策（広告配信等）とリテンション施策ばかりで、予算を使い切ったらチーム解散、となるようなケースです。グロースは製品（サービス）そのものに手を入れることが絶対条件ですので、 製品開発チームに所属していた人間がチームにいることがグロース成功の鍵となります。
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+## 取り入れるのは難しいのでしょうか？
+グロースはさまざまな施策の積み重ねですが、「どういった順番で施策を行えばいいのかが分からない」という相談をよく受けます。適切なフレームワークを使えば、施策の優先度をクリアに整理し、成功率を高めることができます。
+
+例えば、事業を開始したばかりの場合は（もちろんお客様が100万人の場合もグロースは力を発揮しますよ。）
+
+まずは小さいユーザーの輪（例えば初期の100人）から始めて、その中でARRRA（グロースのフレームワーク）を達成する。そして、次のより大きなユーザーの輪（例えば次の1,000人）の中でARRRAの達成に臨む、といった形で進めていくのです。 このようにユーザー規模ごとに進める理由は、ユーザー数によって達成すべき要件が変化していくからです。初期に獲得する100人は相当に熱心なユーザーですが、1,000人、10,000人と大きくなっていくと、製品の提供内容を再定義する必要や、各フェーズでサービスの改善が必要になってきます。またこの場合、次のサイクルに移るべき基準は、単純に「次のサイクルのユーザー規模になったら」です。あらかじめユーザー規模のマイルストーンを100人、1,000人、10,0000人、50,000人……などと決めておき、それぞれのマイルストーンを達成するまではユーザー活性化にフォーカスし、達成したら次の工程に移る。という進め方を行います。
+
+
+
+## グロースサイクルを高速で回す＝グロースの本質
+日々の取り組みベースのお話では、まずグロースサイクルというモデルを利用します。
+グロースサイクルの全体の流れは、
+①まず達成すべきKGIを設定し
+②そのKGIを達成するための改善箇所を見つけるための分析を行い、
+③その改善箇所に関してKPIを設定し、
+④施策の洗い出し・選定・実行を行い、
+⑤施策の結果、KPIとKGIが達成できているかを確認する、
+というものです。こうした 5つのステップからなるサイクルを回す中で、再現性のある形で成長を達成することができます。
+
+## KPIとKGIの注意点
+グロースにおいてKPIは非常に重要です。しかしそれよりも前にやるべきことがあります。それがKGIの設定です。KGI（Key Goal Indicator）とは、その名のとおり事業を成長させる上でゴールとなる指標のことで、「売上」や「登録ユーザー数」などがそれにあたります。それに対してKPIとは、それらのKGIを上げるための「アクション」を行いやすくするために設定する指標です。 KGIを設定してゴールを明確化することで、初めてKPI設定を正しく行えるようになり
+
+何はともあれ、アクションをしなければ成長もありえません。「Just Do It」の精神で、改善サイクルを素早く回していきましょう。
+
+## 具体的にマーケティングとの違いは？
+グロースは結局マーケティングとどう違うのか、よく質問を受けます。
+ 一言で言えば、いままでのマーケティングが製品を“定数”として取り扱ってきたのに対して、グロースハックはそれすらも“変数”として施策を行う点が違います。
+マーケティングの「4P」とは、プロダクト（製品）、プライス（価格）、プロモーション（広告宣伝）、プレース（流通）という4つの軸を指します。
+従来のマーケティングの概念では、プロダクトだけはすでに決まっていて、マーケターが変えることができるのはそれ以外の3つのPのみでした。洗剤のマーケターは洗剤という製品自体を変えることは基本的にできません。しかしインターネットの普及によって製品（サービス）の主力がソフトウェアやWebサービスに移ってくると、製品（サービス）も容易に変更可能な変数になりました。
+そうした変化の中で、プロダクトという4つ目のPも変数として改善していくことで事業を成長させることが求められるようになりました。こうして生まれた概念がグロースなのです。したがって、グロースを「お金を使わないマーケティング手法」だと捉えるのはまったくの間違いです。
+広告宣伝も含めた4つのPを総合的に改善していくことが、グロース担当者に求められているものです。
+
