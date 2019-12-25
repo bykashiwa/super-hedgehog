@@ -5,7 +5,7 @@ intro_image_absolute: true # edit /assets/scss/components/_intro-image.scss for 
 intro_image_hide_on_mobile: true
 ---
 
-# The Partnership Company 
-## つなぎ目のない関係を目指す
+# The Partnership Company.
+## つなぎ目のない関係を。
 
-### マーケティング・IT・ファイナンスを活用し、既存事業の成長、革新的なマーケティングまで事業を全般的にサポートします。理想論としてのアイディアを語るのではなく、実際の事業に圧倒的な成長を実現します。
+マーケティング・IT・ファイナンスをフル活用し、事業成長を全般的にリード。理想論としてのアイディアを語るのではなく、実際の事業に圧倒的な成長を実現します。
