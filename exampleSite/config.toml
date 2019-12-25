@@ -1,6 +1,6 @@
 baseURL = "warren.co.jp"
 languageCode = "jp"
-title = "Warren,G.k"
+title = "Warren,G.K"
 themesDir = "../.."
 theme = "hugo-serif-theme"
 
