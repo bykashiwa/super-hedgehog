@@ -1,5 +1,5 @@
 ---
-title: 'THE partnership company.縫い目のない関係を。'
+title: 'About'
 menu: 'main'
 ---
 # 意味のある仕事を生み出すために、意味のある関係を生み出すために
