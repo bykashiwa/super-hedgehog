@@ -1,5 +1,5 @@
 ---
-title: "リサーチ（調査と分析）"
+title: "競合調査と自社分析"
 date: 2018-11-28T15:14:39+10:00
 featured: true
 draft: false
