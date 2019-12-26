@@ -1,52 +1,31 @@
 ---
-title: "デジタルマーケティング"
+title: "店舗運営向けAI・機械学習"
 date: 2018-11-28T15:15:34+10:00
 featured: false
 draft: false
 ---
+AIや機械学習を店舗運営に導入し、消費者が心地よいと感じる顧客体験を提供します。同時に無駄なコストを省きます。
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+##  AIによる分析でデータから洞察を引き出す
+データ分析、AI、機械学習で、大量のデータから新たな価値のある分析情報を抽出し、ビジネスに関する予測ができます。 AI ソリューションは進歩しております。ミッションを遂行するために必要とされるパフォーマンスに応じて自動スケーリングを行い、大きなデータに対しても極めて高速にクエリを実行して必要な情報を短時間で返します。データの分析後は、わかりやすいカスタム レポートを可視化ツールによって作成いたします。
 
-## Ne verba patulosque numen vix libet
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+## クラウドで現場を強力に
+コラボレーションの強化と生産性の向上により、従業員に力を与え、組織の俊敏さを高めます。業務の俊敏性とセキュリティを確保し、新たな人材獲得に際して大きなアピール ポイントとなります。クラウドベースのツールを使用すれば、従業員は簡単かつリアルタイムに情報にアクセスし、ショップ管理者と情報を共有できます。
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+### 高度な組織化
+店舗運営を組織化し、社員エンゲージメントを高め、組織全体に伝達します。シフトのスケジュール、タイムシート、トレーニング、通知事項、バックオフィスの共有で使用する紙ベースの作業をデジタル化して、日常的なプロセスの手間を省きます。
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+### 外出先でも情報にアクセス
+別の支店を訪問中に必要なデータにアクセスして、別の場所から顧客をサポートできるようになります。
 
-## Postquam tamen
+## 顧客体験を変革する新しいアプリケーションの開発
+常に増大していく消費者の期待に対して、店舗運営者はすぐに対応し、迅速に顧客にサービスを提供しなければなりません。現在の店舗運営者は、消費者動向の変化を知り、その変化に対応するようにユーザー エクスペリエンスとサービスをタイムリーに改善して提供する必要があります。店舗運営者がアプリケーションを開発して顧客に提供できるようにする体制を幅広く提供しています。
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+### 顧客に合った広告キャンペーンや体験を創出する
+アプリケーション開発によりリピートを増やして収益を向上します。より魅力的で顧客のニーズを満たす体験を創出します。お客様のセグメント化、カスタム オーディエンスの生成、大規模なコンテンツ調整を改善できます。
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+## 店舗運営に必要なテクノロジーを
+AIの発展やクラウド化により、リアルタイムで最適な提案が可能になりつつあります。しかし、大企業では続々とこれらの技術が導入されていますが、自分たちのような店舗運営者にはまだ必要ないと考えてるオーナー様や店長様も多いです。3年前よりも技術が進歩し、とても便利になっています。
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+こんな作業に困ってる、など相談ベースでのお問い合わせも受け付けておりますので、是非メールをお待ちしております。
