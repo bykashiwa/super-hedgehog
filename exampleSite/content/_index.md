@@ -5,5 +5,7 @@ intro_image_absolute: true # edit /assets/scss/components/_intro-image.scss for 
 intro_image_hide_on_mobile: true
 ---
 
-# つなぎ目のない関係を。
-出会った時よりも良い世界を、未来へ渡すために取り組んでいます。
+# Warren Inc.とつなぎ目のない関係を
+Warren Inc.は事業パートナー会社です。
+その事業を理解でき、また長期にわたり良好な事業成長を保つことができ、好ましくかつ尊敬と信頼のできるリーダーによって経営されていると信じる企業とつなぎ目のない関係を築きます。
+
