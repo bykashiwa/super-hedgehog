@@ -1,5 +1,5 @@
 ---
-title: "Warren Inc."
+title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
 draft: true
 ---
