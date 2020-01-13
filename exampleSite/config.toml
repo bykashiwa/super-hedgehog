@@ -12,15 +12,15 @@ theme = "hugo-serif-theme"
   [params.logo]
     mobile = "images/logo-mobile.svg"
     standard  = "images/logo.svg"
-    alt = "Warren Inc - 事業成長カンパニー"
+    alt = "Warren Inc - 事業成長のパートナー"
 
   [params.homepage_meta_tags]
-    meta_description = "Warrenは事業成長カンパニーです"
+    meta_description = "Warrenは事業成長のパートナー"
     meta_og_title = "Warren Inc."
     meta_og_type = "website"
     meta_og_url = "https://warren.co.jp"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
-    meta_og_description = "Warren合同会社。つなぎ目のない関係を。"
+    meta_og_description = "Warrenとつなぎ目のない関係を。"
     meta_twitter_card = "summary"
     meta_twitter_site = "@kkk"
     meta_twitter_creator = "@kkk"
