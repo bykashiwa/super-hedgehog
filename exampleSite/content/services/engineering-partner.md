@@ -1,5 +1,5 @@
 ---
-title: 技術パートナー
+title: エンジニアリングパートナー
 date: 2018-11-28T15:15:34+10:00
 featured: true
 draft: false
