@@ -5,7 +5,7 @@ intro_image_absolute: true # edit /assets/scss/components/_intro-image.scss for 
 intro_image_hide_on_mobile: true
 ---
 
-# Warren Inc.とつなぎ目のない関係を
+# Warren Inc.と <br> つなぎ目のない関係を
 Warrenは、事業成長を全面的に支援するコンサルティング会社です。
 
 その事業を理解でき、また長期にわたり良好な事業成長を保つことができ、好ましくかつ尊敬と信頼のできるリーダーによって経営されていると信じる企業とつなぎ目のない関係を築きます。
