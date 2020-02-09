@@ -1,5 +1,5 @@
 ---
-title: エンジニアリング部門
+title: エンジニアリングマーケティング
 date: 2020-01-18T15:15:34+10:00
 featured: true
 draft: false
