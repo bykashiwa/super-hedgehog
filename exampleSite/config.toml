@@ -29,7 +29,7 @@ theme = "hugo-serif-theme"
   # Main Menu
   [[menu.main]]
     name = "Service"
-    url = "/ervice/"
+    url = "/service/"
       weight = 1
 
   [[menu.main]]
