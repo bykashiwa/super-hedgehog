@@ -7,5 +7,3 @@ intro_image_hide_on_mobile: true
 
 # Profitable growth
 利益の伴う成長を実現・持続するためのマーケティング事務所です
-<br>
-事業を持続的に成長させるためにマーケティングを通して既存ブランドの価値向上
